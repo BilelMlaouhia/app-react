@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bilel-mlawhia-student/testingReact.git/static/css/main.e6c13ad2.css",
+    "main.js": "/bilel-mlawhia-student/testingReact.git/static/js/main.59e0592d.js",
+    "static/js/787.eef51e65.chunk.js": "/bilel-mlawhia-student/testingReact.git/static/js/787.eef51e65.chunk.js",
+    "index.html": "/bilel-mlawhia-student/testingReact.git/index.html",
+    "main.e6c13ad2.css.map": "/bilel-mlawhia-student/testingReact.git/static/css/main.e6c13ad2.css.map",
+    "main.59e0592d.js.map": "/bilel-mlawhia-student/testingReact.git/static/js/main.59e0592d.js.map",
+    "787.eef51e65.chunk.js.map": "/bilel-mlawhia-student/testingReact.git/static/js/787.eef51e65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.59e0592d.js"
+  ]
+}
